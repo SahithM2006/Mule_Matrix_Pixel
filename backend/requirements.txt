@@ -13,3 +13,4 @@ numpy
 networkx
 joblib
 scikit-learn
+torch
